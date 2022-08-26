@@ -345,14 +345,14 @@ a:hover{
 }
 
 #MacbookAir{
-    background: url(/Apple/clone/images/macbookair2.png);
+    background: url(/Apple/images/macbookair2.png);
     background-size: cover;
     background-position: center;
 }
 
 #macbookairpro{
     
-    background: url(/Apple/clone/images/macbookairpro.jpg);
+    background: url(/Apple/images/macbookairpro.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -366,7 +366,7 @@ a:hover{
 
 #iwatch{
     
-    background: url(/Apple/clone/images/iwatchbg.jpg);
+    background: url(/Apple/images/iwatchbg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -384,13 +384,13 @@ a:hover{
 
 #ipadair{
     
-    background: url(/Apple/clone/images/ipadbg.jpg);
+    background: url(/Apple/images/ipadbg.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #appleplay{
-    background: url(/Apple/clone/images/appleplaybg.jpg);
+    background: url(/Apple/images/appleplaybg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -403,7 +403,7 @@ a:hover{
 
 
 #arcade{
-    background: url(/Apple/clone/images/archadebg.jpg);
+    background: url(/Apple/images/archadebg.jpg);
     background-size: cover;
     background-position: center;
 }
